@@ -1,0 +1,128 @@
+#a0{
+    margin-top: 50px;
+    text-align: center;
+   
+    background-color:navy;
+    color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 10px rgb(255, 255, 255);
+    font-size: xx-large;
+    height: 50px;
+    width: auto;
+}
+#a1{
+    
+    margin-top: 100px;
+    margin-left: 150px;
+    border-top: 100px;
+    width: 16%;
+    height: 600px;
+    background-color:darkslateblue;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    float: left;
+    ;
+    
+    
+}
+#a2{
+    margin-top: 100px;
+    
+    margin-left: 80px;
+    border-top: 100px;
+    width: 16%;
+    height: 600px;
+    background-color:darkslateblue;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    float: left;
+    ;
+    
+    
+}
+#a3{
+    margin-top: 100px;
+    margin-left: 80px;
+    border-top: 100px;
+    width: 16%;
+    height: 600px;
+    background-color:darkslateblue;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    float: left;
+    ;
+    
+    
+}
+#a4{
+    margin-top: 100px;
+    margin-left: 80px;
+    border-top: 100px;
+    width: 16%;
+    height: 600px;
+    background-color:darkslateblue;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    float: left;
+    ;
+    
+    
+}
+img{
+    margin-left: 45px;
+}
+h2{
+    text-align: center;
+}
+#b0{
+    background-color:khaki;
+    height: 20px;
+    width:auto;
+    color: black;
+    border: 4px black solid;
+    margin-top: 5px;
+    text-align: center
+}
+#b1{
+    color: black;
+    background-color: khaki;
+    height: 20px;
+    margin-top: -1px;
+    width:auto;
+    border: 4px black solid;
+    text-align: center 
+}
+#b2{
+    color: black;
+    background-color: khaki;
+    margin-top: 15px;
+    height: 20px;
+    width:auto;
+    border: 4px black solid;
+    text-align: center
+}
+#b3{
+    color: black;
+    background-color: khaki;
+    height: 17px;
+    width:auto;
+    border: 4px black solid;
+    margin-top: 20px;
+    text-align: center
+}
+body{
+    background-image: url("./images/movie2.jpg");
+        
+        background-size: cover;
+    }
+
+#c1{
+    color:bisque;
+}
+#d1
+{
+    border: 4px white;
+}
